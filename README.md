@@ -7,7 +7,7 @@
 </br>
 
 <p align="center">
-"Hi, I'm Ware. I am 17 years old.My interests are in HTML , CSS , JS , C#. </p>
+"Hi, I'm Ware. I am 17 years old.My interests are in HTML , CSS , JS , C# , React and Python. </p>
 
 <div align= "center">
 <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/918549275653333062?theme=light)](https://discord.com/users/918549275653333062)"/>
