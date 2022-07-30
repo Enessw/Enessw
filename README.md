@@ -27,7 +27,5 @@
 <h1>💳Donate</h1>
 
 <p align="center">
-"You can give me a cup of coffee :)"</p>
-<a href="#">
-<img src ="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif">
-</a>
+"Btc `bc1qvdwdrn884akfcryumj7dtszsw4eh6qqtq966hk`
+Eth `0x129d88F42d47122B2a20B832BC47Aebd0882E857`</p>
