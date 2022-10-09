@@ -27,5 +27,5 @@
 <h1>💳Donate</h1>
 
 <p align="center">
-  "Btc `<strong>bc1qvdwdrn884akfcryumj7dtszsw4eh6qqtq966hk</strong>`
+  "Btc `<strong>bc1qvdwdrn884akfcryumj7dtszsw4eh6qqtq966hk</strong>`</br>
 Eth `<strong>0x129d88F42d47122B2a20B832BC47Aebd0882E857</strong>`</p>
