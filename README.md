@@ -29,4 +29,3 @@
 <p align="center">
 "Btc `bc1qvdwdrn884akfcryumj7dtszsw4eh6qqtq966hk`
 Eth `0x129d88F42d47122B2a20B832BC47Aebd0882E857`</p>
-![profile count](https://komarev.com/ghpvc/?username=Enessw&color=dc143c)&nbsp;
