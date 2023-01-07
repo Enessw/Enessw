@@ -21,6 +21,9 @@
 <a href="https://instagram.com/enesssw7"target="blank_"><img alt="Instagram"src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=purple"></a>
 <a href="https://t.me/warexd"target="blank_"><img  alt="Telegram"src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=blue"></a>
 </div>
+<h1>PROFILE VIEWS;</h1>
+<p align="center"><img src="https://count.getloli.com/get/@:Enessw?theme=rule34" alt=":Enessw" /></p>
+
 
 </br>
 
