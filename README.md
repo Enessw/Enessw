@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%F730E5B1&lines=Hello+!;I'm+Ware.&center=true&size=30">
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%F730E5B1&lines=Hello+!;I'm+Enes.&center=true&size=30">
 </h1>
 
 </br>
@@ -27,5 +25,5 @@
 <h1>💳Donate</h1>
 
 <p align="center">
-  "Btc `<strong>bc1qvdwdrn884akfcryumj7dtszsw4eh6qqtq966hk</strong>`</br>
+Btc `<strong>bc1qvdwdrn884akfcryumj7dtszsw4eh6qqtq966hk</strong>`</br>
 Eth `<strong>0x129d88F42d47122B2a20B832BC47Aebd0882E857</strong>`</p>
